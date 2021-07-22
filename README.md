@@ -1,2 +1,2 @@
 # Hacking-related-books
-E-books related to hacking helps you to know more about hacking
+E-books related to hacking and cybersecurity world.
